@@ -1,0 +1,23 @@
+{
+  "name": "coop-cube.client",
+  "version": "0.0.1",
+  "description": "Cooperative puzzle game with cubes, built with TypeScript, based on NodeJS and WebSockets. Client side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noemi-salaun/coop-cube.client.git"
+  },
+  "author": "Noémi Salaün <noemi.salaun@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/noemi-salaun/coop-cube.client/issues"
+  },
+  "homepage": "https://github.com/noemi-salaun/coop-cube.client#readme",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^2.0.3"
+  }
+}
